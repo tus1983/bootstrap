@@ -1,10 +1,13 @@
 div{
-  border: 1px solid red;
-  height: 70px;
+  height: 30px;
+  width: 500px;
 }
-.redBox{
-    background-color: red;
+.blackBox{
+    background-color: black;
 }
 .blueBox{
     background-color: blue;
+}
+.yellowBox{
+    background-color: yellow;
 }
